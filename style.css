@@ -1,0 +1,36 @@
+﻿button {
+    background-color: #00ff00;
+    border: none;
+    border-radius: 50px;
+    color: #ff00ff;
+    
+    
+    padding: 20px 50px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.binod{
+    color: 00ff00;
+}
+    button:hover {
+        background-color: #000000;
+        border: none;
+        color: #00FFFF;  
+        text-shadow: 0 0 125em currentColor;   
+        box-shadow: 0 0 150em currentColor;
+        padding: 20px 50px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 30px;
+        margin: 4px 2px;
+        cursor: pointer;
+        
+    }
+    body{
+        background-image: linear-gradient(  black ,rgb(58, 58, 58) );
+    }
